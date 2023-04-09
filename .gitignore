@@ -8,4 +8,10 @@
 !*/
 
 .vscode/
+.vs/
+Debug/
 *.txt
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
